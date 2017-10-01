@@ -1,4 +1,10 @@
 h1 {
-  font-family: "Raleway"; }
+  font-family: "Space Mono", "Courier";
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center; }
+
+h2 {
+  text-align: center; }
 
 /*# sourceMappingURL=main.css.map */
